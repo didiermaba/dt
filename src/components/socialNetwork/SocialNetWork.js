@@ -1,7 +1,6 @@
 import React from "react";
 import "./style/socialNetWork.scss";
 
-
 const SocialNetWork = () => {
   const anim = () => {
     const icons = document.querySelectorAll(".social-network a");
@@ -22,7 +21,7 @@ const SocialNetWork = () => {
     <div className="social-network">
       <ul className="content">
         <a
-          href="https://www.linkedin.com/in/didier-maba-a7b725255/"
+          href="https://www.linkedin.com/company/diathoms/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
@@ -35,7 +34,7 @@ const SocialNetWork = () => {
         </a>
 
         <a
-          href="https://twitter.com/DidierMaba"
+          href="https://twitter.com"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
