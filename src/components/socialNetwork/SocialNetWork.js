@@ -21,7 +21,7 @@ const SocialNetWork = () => {
     <div className="social-network">
       <ul className="content">
         <a
-          href="https://www.linkedin.com"
+          href="https://www.linkedin.com/company/diathoms/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover"
@@ -57,7 +57,7 @@ const SocialNetWork = () => {
           </li>
         </a>
         <a
-          href="https://github.com/didiermaba"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
           className="hover"

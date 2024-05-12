@@ -241,7 +241,8 @@
     @media screen and (max-width: 550px ) { 
       .header-img {
            margin-left: 0.2rem;
-           max-width: 250px;
+           max-width: 270px;
+           min-width: 270px;
            height: 380px;
        }   
        .home .home-main .main-content h1 {
