@@ -12,7 +12,7 @@ const Presentation = () => {
 
         <div className="paragraphe">
           <p>
-          "D&T Multi-Service" est une entreprise de services proposant des solutions de nettoyage de vitres et de ménage de qualité supérieure. Forte de plus de 20 ans d'expérience dans le domaine, notre entreprise s'engage à fournir un service professionnel et fiable. Nous offrons des services personnalisés adaptés aux besoins individuels de nos clients, garantissant un environnement propre et sain. Notre équipe qualifiée et dévouée est spécialisée dans les techniques de nettoyage les plus efficaces et respectueuses de l'environnement. Chez D&T Multi-Services, la satisfaction du client est notre priorité absolue, ce qui se reflète dans la qualité de nos prestations. Nous sommes fiers de notre réputation d'excellence et de notre engagement envers l'intégrité et le professionnalisme."
+          "D&T Multi-Service" est une entreprise de services proposant des solutions de nettoyage de vitres et de ménage de qualité supérieure. Forte de plus de 20 ans d'expérience dans ce domaine, notre entreprise s'engage à fournir un service professionnel et fiable. Nous offrons des services personnalisés adaptés aux besoins individuels de nos clients, garantissant un environnement propre et sain. Notre équipe qualifiée et dévouée est spécialisée dans les techniques de nettoyage les plus efficaces et respectueuses de l'environnement. Chez D&T Multi-Services, la satisfaction du client est notre priorité absolue, ce qui se reflète dans la qualité de nos prestations. Nous sommes fiers de notre réputation d'excellence et de notre engagement envers l'intégrité et le professionnalisme."
           </p>
         </div>
         <br />
